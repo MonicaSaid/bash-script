@@ -1,0 +1,5 @@
+The float.sh file is used to :
+    calculate the float point basic operations.
+    
+The load.sh is used to :
+     calculate the load of the system and it is put in the crontab to monitor it every 1 minute.
