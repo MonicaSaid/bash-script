@@ -28,6 +28,9 @@
 ##	7: Customer name is not found
 
 ============================================================================================================================================================================
+Steps of MariaDB:
+------------------
+
 1-Install MariaDB
 	sudo yum install mariadb-server
         sudo systemctl start mariadb
